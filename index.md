@@ -3,7 +3,7 @@
 This certifies that you are awareded **HKD 100,000** equity investment in PigNic Inc. by Mr Paul Peng.
 
 Proceed with the following QR Code to redeem.
-![image](./images/qrcode1.png)
+![image](images/coupon1investment.svg)
 
 ### Note
 - Expires by 1st September, 2023
